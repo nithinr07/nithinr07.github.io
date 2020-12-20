@@ -5,17 +5,13 @@ sections:
     component: hero_block.html
     type: heroblock
     content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+      Electronics and Communication postgrad \| Integrating the social and the technical \| Avid thinker
   - section_id: about
     component: content_block.html
     type: contentblock
     title: About
     content: >-
-      This is the "about" excerpt. It can be used to provide a paragraph about
-      yourself that people can read on the homepage to get a sense of who you
-      are. There also exists a dedicated about page where you can write more
-      about yourself for those who are interested.
+      I'm currently pursuing a Master's degree in Electronics and Communication Engineering at [IIIT Bangalore](https://iiitb.ac.in). I love to use my technical skills to help build devices for social good. I also love to write articles focusing on the integration of the technical and the social. 
     actions:
       - label: Contact Me
         url: /contact
