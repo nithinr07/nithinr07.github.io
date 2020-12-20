@@ -1,5 +1,6 @@
 title: Stackbit Fresh Theme
 baseurl: ""
+url: "https://nithinr07.github.io"
 permalink: '/:title/'
 collections:
   posts:
