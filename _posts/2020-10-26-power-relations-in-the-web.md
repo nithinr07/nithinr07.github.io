@@ -10,7 +10,7 @@ excerpt: >-
   governmentality with respect to the web and the processes which
   operate in the web. Lastly, we analyse how the agency of these
   processes can be understood.
-date: '2019-03-27'
+date: '2020-10-26'
 thumb_img_path: images/7.jpg
 content_img_path: images/7.jpg
 layout: post
