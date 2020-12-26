@@ -11,8 +11,8 @@ bibliography: references.bib
 title: Social Conformity - A Qualitative Analysis of Information
   Cascades
 date: '2020-11-27'
-thumb_img_path: images/7.jpg
-content_img_path: images/7.jpg
+thumb_img_path: images/info-cascade.jpg
+content_img_path: images/info-cascade.jpg
 layout: post
 ---
 

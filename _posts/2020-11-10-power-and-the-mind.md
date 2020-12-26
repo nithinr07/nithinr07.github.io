@@ -10,8 +10,8 @@ excerpt: >-
   interactions.
 bibliography: references.bib
 date: '2020-11-10'
-thumb_img_path: images/7.jpg
-content_img_path: images/7.jpg
+thumb_img_path: images/power.jpeg
+content_img_path: images/power.jpeg
 layout: post
 title: Power and the Mind
 ---
