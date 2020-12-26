@@ -11,8 +11,8 @@ excerpt: >-
   operate in the web. Lastly, we analyse how the agency of these
   processes can be understood.
 date: '2020-10-26'
-thumb_img_path: images/7.jpg
-content_img_path: images/7.jpg
+thumb_img_path: images/power-web.jpeg
+content_img_path: images/power-web.jpeg
 layout: post
 bibliography: references.bib
 ---
