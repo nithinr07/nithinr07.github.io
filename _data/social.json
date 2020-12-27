@@ -3,25 +3,25 @@
         {
             "type": "twitter",
             "title": "Twitter",
-            "icon": "fa-twitter",
+            "icon": "fab fa-twitter",
             "url": "https://twitter.com/TheStonedImpala"
         },
         {
-            "type": "instagram",
-            "title": "Instagram",
-            "icon": "fa-instagram",
-            "url": "https://www.instagram.com/the_stoned_impala"
+            "type": "researchgate",
+            "title": "Google Scholar",
+            "icon": "ai ai-google-scholar",
+            "url": "https://scholar.google.com/citations?user=j5CYRWwAAAAJ&hl=en"
         },
         {
             "type": "github",
             "title": "GitHub",
-            "icon": "fa-github",
+            "icon": "fab fa-github",
             "url": "https://github.com/nithinr07"
         },
         {
             "type": "linkedin",
             "title": "LinkedIn",
-            "icon": "fa-linkedin",
+            "icon": "fab fa-linkedin",
             "url": "https://www.linkedin.com/in/nithin-raj-243b88155/"
         }
     ]

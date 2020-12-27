@@ -1,21 +1,30 @@
 ---
-title: Projects and Publications
+title: Portfolio
 subtitle: >-
-  The style guide provides you with a blueprint of default post and page styles.
-  The style guide is also a great reference for suggested typographic treatment
-  and styles for your content.
+  This is an overview of all the significant ventures that I have undertaken so far. 
 menus:
   main:
     weight: 3
-    title: Projects and Publications
+    title: Portfolio
 layout: page
 ---
+<!-- 
+**This is a paragraph**. Pellentesque habitant morbi *tristique senectus et netus et malesuada* fames ac turpis egestas. Vestibulum [tortor quam](https://www.google.com), feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit <mark>amet est et sapien ullamcorper</mark> pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. -->
 
-**This is a paragraph**. Pellentesque habitant morbi *tristique senectus et netus et malesuada* fames ac turpis egestas. Vestibulum [tortor quam](https://www.google.com), feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit <mark>amet est et sapien ullamcorper</mark> pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.
+## Experience
 
-# This is an H1
 
-Quisque facilisis erat a dui. Nam malesuada ornare dolor. Cras gravida, this is marked text ornare, erat elit consectetuer erat, id egestas pede nibh eget odio. Proin tincidunt, velit vel porta elementum, magna diam molestie sapien, non aliquet massa pede eu diam. Aliquam iaculis. Fusce et ipsum et nulla tristique facilisis.
+## Projects
+
+
+
+## Publications
+
++ A. Ramesh, N. Raj, T. K. Srikanth and M. Rao, ”Design of a tactile audio gallery for visually impaired students,” 2019 IEEE SENSORS, Montreal,QC, Canada, 2019, pp. 1-4, doi: 10.1109/SENSORS43011.2019.8956886.
++ N. Raj, A. Ramesh, T. K. Srikanth and M. Rao, ”Live Demonstration : A tactile audio gallery for visually impaired students,” 2019 IEEE SENSORS,Montreal, QC, Canada, 2019, pp. 1-1, doi: 10.1109/SENSORS43011.2019.8956527.
+
+
+<!-- Quisque facilisis erat a dui. Nam malesuada ornare dolor. Cras gravida, this is marked text ornare, erat elit consectetuer erat, id egestas pede nibh eget odio. Proin tincidunt, velit vel porta elementum, magna diam molestie sapien, non aliquet massa pede eu diam. Aliquam iaculis. Fusce et ipsum et nulla tristique facilisis.
 
 ## This is an H2
 
@@ -59,7 +68,7 @@ Blocks of code are either fenced by lines with three back-ticks, or are indented
 
 ```
 <!-- Some example CSS code -->
-body {
+<!-- body {
   color:red;
 }
 ```
@@ -86,4 +95,4 @@ body {
       <td>Footer content 2</td>
     </tr>
   </tfoot>
-</table>
+</table> --> 

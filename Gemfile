@@ -11,3 +11,4 @@ group :jekyll_plugins do
     gem "jekyll-paginate-v2"
     gem "jekyll-paginate"
 end
+# <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
