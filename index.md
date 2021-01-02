@@ -19,7 +19,7 @@ sections:
     component: posts_block.html
     type: postsblock
     title: Recent Posts
-    num_posts_displayed: 4
+    num_posts_displayed: 2
     actions:
       - label: View Blog
         url: blog/index.html
