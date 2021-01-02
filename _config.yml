@@ -9,7 +9,7 @@ palette: blue
 header:
   title: Kocherla Nithin Raj
   tagline: Pragmatic stoic with a zeal to learn
-  profile_img: images/avatar.png
+  profile_img: images/profile.jpeg
   bg: dark
   has_nav: true
   has_social: true
