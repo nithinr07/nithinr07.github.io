@@ -11,12 +11,30 @@ layout: page
 <!-- 
 **This is a paragraph**. Pellentesque habitant morbi *tristique senectus et netus et malesuada* fames ac turpis egestas. Vestibulum [tortor quam](https://www.google.com), feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit <mark>amet est et sapien ullamcorper</mark> pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. -->
 
-## Experience
-
-
 ## Projects
 
+***Educational Tactile Audio Gallery (Edu-TAG)***
 
++ Edu-TAG is a device helps the visually impaired in understanding essential tactile diagrams by making them touch sensitive and using audio feedback.
++ Has been demonstrated to visually impaired students and at IEEE Sensors 2019. Overall feedback has been good, and plans are being made to develop a production-ready product.
+
+***Webboard***
+
++ Online writing platform which facilitates hassle free classroom teaching.
++ Real-time saving of notes which enables students to focus on the teaching rather than writing notes. Notes are saved in a structural paradigm allowing easy access anytime.
++ Developed the back-end and handled integration with the front-end. Currently being used in IIIT Bangalore. 
+
+***Dialect Classification***
+
++ Designed a system which classifies nine distinct British dialects (IViE speech corpus) based on acoustic properties of speech signals.
++ MFCC and spectral flux properties were extracted to construct the feature space.
++ Machine Learning techniques such as SVM, Random Forest, kNN classifiers have been used for constructing and evaluating the classification.
+
+***IR Based Eye Blink Detection***
+
++ The goal of this project is to detect eye blink sequences with an IR sensor.
++ Each of the detected sequences is transmitted through the internet to an Android application which performs a specific task based on the received sequence.
++ The project involved forward error correction (FEC), sensor programming, IoT programming and app development. 
 
 ## Publications
 

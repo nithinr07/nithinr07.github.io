@@ -5,13 +5,13 @@ sections:
     component: hero_block.html
     type: heroblock
     content: >-
-      Electronics and Communication postgrad \| Integrating the social and the technical \| Avid thinker
+      Electronics and Communication Postgrad \| Integrating the social and the technical \| Avid thinker
   - section_id: about
     component: content_block.html
     type: contentblock
     title: About
     content: >-
-      I'm currently pursuing a Master's degree in Electronics and Communication Engineering at [IIIT Bangalore](https://iiitb.ac.in). I love to use my technical skills to help build devices for social good. I also love to write articles focusing on the integration of the technical and the social. 
+      I'm currently pursuing a Master's degree in Electronics and Communication Engineering at [IIIT Bangalore](https://iiitb.ac.in). I love to use my varied technical skills for social good. I also write articles analysing phenomena in technological spaces with the help of social lenses. 
     actions:
       - label: Contact Me
         url: /contact
