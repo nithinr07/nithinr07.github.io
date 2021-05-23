@@ -12,8 +12,8 @@ excerpt: >-
 bibliography: references.bib
 title: The Network Society - Analysis via Social Capital
 date: '2020-12-04'
-thumb_img_path: images/network-society.webp
-content_img_path: images/network-society.webp
+thumb_img_path: images/network.png
+content_img_path: images/network.png
 layout: post
 ---
 
